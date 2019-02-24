@@ -61,6 +61,9 @@ article{
 .description .texto{
     padding: 0 10px;
 }
+ .mini-logo img {
+    width: max-content;
+  }
 
 .blog .cbox article p{
     display: block;
