@@ -206,6 +206,6 @@ fieldset {
     font-size: 0.6rem;
   }
    .mini-logo img {
-    width: max-content;
+    width: 50px;
   }
 }
