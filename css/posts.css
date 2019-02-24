@@ -205,7 +205,7 @@ fieldset {
   .inicio {
     font-size: 0.6rem;
   }
-   .mini-logo img {
-    width: 50px;
+   .mini-logo  {
+    width:max-content
   }
 }
